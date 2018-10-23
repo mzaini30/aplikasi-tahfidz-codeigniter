@@ -1,2 +1,1 @@
-# aplikasi-tahfidz-codeigniter
-Aplikasi untuk mencatat kemajuan tahfidz santri berbasis Codeigniter.
+![](gambar/1.png)
